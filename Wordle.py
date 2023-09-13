@@ -12,6 +12,7 @@ from WordleGraphics import WordleGWindow, N_COLS, N_ROWS
 
 def wordle():
 
+
     def enter_action(s):
         
         guess = ""
